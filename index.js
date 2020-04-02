@@ -16,11 +16,11 @@ console.log(pokemonsInJap);
 
 // Q3. using filter, return all pokemons with english name longer than 8 characters.
 
-// Q4. using filter, return all pokemons that are flying type.
+// Q4. using filter, return all pokemons that contains flying type.
 
-// Q5. using filter, return all pokemons that only have one type and is flying type.
+// Q5. using filter, return all pokemons that only have one type and is normal type.
 
-// Q6. using reduce, return the sum of all psychic pokemons
+// Q6. using reduce, return the sum of all SpAttack psychic pokemons
 
 // Q7. using reduce, return an object with an array of all psychic pokemon names and their totalSpAttack 
 // {
